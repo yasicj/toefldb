@@ -6,6 +6,6 @@ theme:
 nav:
   - 📖 首页白皮书总览: index.md
   - 📂 核心技术细则解构:
-      - 🔄 新旧报告单字段变化深度解构: chapters/layout_analysis.md
-      - 🔒 物理防伪与数字签名的工程原理: chapters/security_features.md
-      - 🔍 企业HR远程全流程合规核验标准: chapters/hr_check_guide.md
+    -  新旧报告单字段变化深度解构: chapters/layout_analysis.md
+    -  物理防伪与数字签名的工程原理: chapters/security_features.md
+    -  企业HR远程全流程合规核验标准: chapters/hr_check_guide.md
