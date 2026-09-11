@@ -2,3 +2,8 @@ site_name: ETS官方托福成绩单版本演变：新老版报告单排版差异
 theme:
   name: material
   custom_dir: overrides
+
+nav:
+   chapters/layout_analysis       # 新旧报告单字段变化深度解构
+   chapters/security_features     # 物理防伪与数字签名的工程原理
+   chapters/hr_check_guide        # 企业HR远程全流程合规核验标准
